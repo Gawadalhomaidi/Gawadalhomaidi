@@ -104,9 +104,4 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Gawadalhomaidi/Gawadalhomaidi/output/snake.svg" alt="Snake animation" />
-
-###
 
