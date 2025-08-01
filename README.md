@@ -18,10 +18,21 @@
 
 ###
 
-<p align="left">•	🏫 I am a Software Engineering graduate from Taiz University.  <br>•	🔭 I am currently working as a Full Stack Web Developer.  <br>•	📫 How to reach me: gggewed.777.888.asc@gmail.com  <br>•	🤔 I’m currently open for a new job opportunity. You can check my Resume.  <br>•	🤓 I’m always learning new technologies to stay updated.  <br>•	⚡ Fun fact: I love coding and building cool projects!</p>
+<p align="left">•	🏫 I am a Software Engineering graduate from Taiz University.  <br>•	🔭 I am currently working as a Full Stack Web Developer.  <br>•	📫 How to reach me: gggewed.777.888.asc@gmail.com  <br>•	🤔 I’m currently open for a new job opportunity. You can check my <a href="https://drive.google.com/file/d/1G07IPV82IKQhpuxZl7SMWwZE-Qe0s768/view?usp=drivesdk" target="_blank">Resume</a>.  <br>•	🤓 I’m always learning new technologies to stay updated.  <br>•	⚡ Fun fact: I love coding and building cool projects!</p>
+
+###
+<h3 align="left">🚀 Important Links</h3>
 
 ###
 
+<p align="left">
+• <a href="https://devsouqhub.com/" target="_blank">My Personal Blog</a> - Features samples of my work where you can directly request services<br>
+• <a href="https://fainlprojectehr.web.app" target="_blank">Modern Electronic Records System</a> - Built with advanced technologies (React, Firebase, Blockchain, Web3, Solidity)<br>
+• <a href="https://gawad-blog.com/Admin/Dashboard.php" target="_blank">Complete School Management Dashboard</a> - Fully dynamic (PHP + MySQL)<br>
+&nbsp;&nbsp;Username: Jawad<br>
+&nbsp;&nbsp;Password: 774515
+</p>
+###
 <h3 align="left">🔧 Languages and Tools</h3>
 
 ###
@@ -98,3 +109,4 @@
 <img src="https://raw.githubusercontent.com/Gawadalhomaidi/Gawadalhomaidi/output/snake.svg" alt="Snake animation" />
 
 ###
+
